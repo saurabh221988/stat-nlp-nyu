@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Saurabh
+   last: Pujar
+email: ssp437@nyu.edu
+leaderboard: SaurabhPujar
