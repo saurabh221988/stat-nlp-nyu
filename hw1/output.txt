@@ -297,3 +297,6 @@ GOLD:	AM: -2.65E03	LM: -1.30E02	Total: -2.78E03	[the, soviets, for, example, are
 
 GUESS:	AM: -2.13E03	LM: -7.98E01	Total: -2.21E03	[yesterday, many, corn, futures, prices, plunged, by, the, permissible, daily, limits]
 GOLD:	AM: -2.13E03	LM: -8.75E01	Total: -2.22E03	[yesterday, many, corn, futures, prices, plunged, by, their, permissible, daily, limits]
+
+GUESS:	AM: -9.67E02	LM: -2.59E01	Total: -9.93E02	[she, could, n't, be, reached, for, comment]
+GOLD:	AM: -9.67E02	LM: -2.59E01	Total: -9.93E02	[she, could, n't, be, reached, for, comment]
